@@ -4,7 +4,7 @@ Are you a fan of groot? We went to Asguard to learn groot (taught as optional se
 
 # Live Demo
 
-X-Weather ⚡ [click Here](https://i-am-groot.netlify.app/)
+I am Groot ⚡ [click Here](https://i-am-groot.netlify.app/)
 The purpose of the project was to learn JavaScript:
 
 - Object
